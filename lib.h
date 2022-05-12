@@ -1,6 +1,6 @@
 //
 // Created by Lorenzo Malatesta on 12/05/22.
-//
+
 
 #ifndef RICERCA2D_LIB_H
 #define RICERCA2D_LIB_H
